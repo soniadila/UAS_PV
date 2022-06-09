@@ -1,0 +1,7 @@
+D:\SONIA\sem 4\PV\UAS_PV\UAS_PV\obj\Debug\UAS_PV.csprojResolveAssemblyReference.cache
+D:\SONIA\sem 4\PV\UAS_PV\UAS_PV\obj\Debug\UAS_PV.MainForm.resources
+D:\SONIA\sem 4\PV\UAS_PV\UAS_PV\obj\Debug\UAS_PV.csproj.GenerateResource.Cache
+D:\SONIA\sem 4\PV\UAS_PV\UAS_PV\bin\Debug\UAS_PV.exe
+D:\SONIA\sem 4\PV\UAS_PV\UAS_PV\bin\Debug\UAS_PV.pdb
+D:\SONIA\sem 4\PV\UAS_PV\UAS_PV\obj\Debug\UAS_PV.exe
+D:\SONIA\sem 4\PV\UAS_PV\UAS_PV\obj\Debug\UAS_PV.pdb
